@@ -45,7 +45,9 @@ half using open addressing, specifically quadratic probing. Within the two
 groups, the hash tables vary in size from 3000 to 11000.  
 In each group, five tables are determined with the first getKey function,  
 and the other five with the second getKey function.  
+  
 Filled in the tables with Players objects from the dataset.  
+  
 Analyzed the collision counts for each table, created visualizations of  
 the collision counts, and drew conclusions for the optimal getKey function  
 and collision detection method.
