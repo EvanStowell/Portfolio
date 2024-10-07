@@ -1,5 +1,3 @@
-# Portfolio
-
 # Class Projects:  
 NBA Wordle  
 Yahtzee  
