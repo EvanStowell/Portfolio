@@ -1,6 +1,7 @@
 # Class Projects:  
-NBA Wordle  
-Yahtzee  
+Hashing Unique Data (C++)  
+NBA Wordle (Python)  
+Yahtzee (Java)  
   
 
 # Personal Projects:  
