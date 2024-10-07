@@ -1,9 +1,9 @@
 # Portfolio
 
-Class Projects:
-
-NBA Wordle
+Class Projects:\n
+NBA Wordle\n
 Yahtzee
+\n\n
 
-Personal Projects:
+Personal Projects:\n
 
