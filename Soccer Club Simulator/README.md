@@ -15,6 +15,12 @@ Link to simulator webpage: pending...
 - PHP
 - CSS
 
+## Advanced Programming Concepts
+- File input/output
+- Inheritance Class Relationship
+- Component Class Relationship
+- Command Line Arguments
+
 ## Installations Needed
 Simulator can be played from link above.
 Otherwise, download the simulator folder and run club.php through a local server environment of your choosing.
