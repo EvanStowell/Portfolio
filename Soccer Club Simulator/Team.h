@@ -3,8 +3,8 @@
 // and simulating matches with other teams
 //
 
-#ifndef M1OEP_ELSTOWEL_TEAM_H
-#define M1OEP_ELSTOWEL_TEAM_H
+#ifndef SOCCER_CLUB_SIMULATOR_TEAM_H
+#define SOCCER_CLUB_SIMULATOR_TEAM_H
 
 #include <string>
 #include <iostream>
@@ -231,4 +231,4 @@ private:
     bool readTeamFromFile(string filename);
 };
 
-#endif //M1OEP_ELSTOWEL_TEAM_H
+#endif //SOCCER_CLUB_SIMULATOR_TEAM_H
