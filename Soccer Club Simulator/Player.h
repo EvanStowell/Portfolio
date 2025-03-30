@@ -2,8 +2,8 @@
 // Created by Evan on 2/21/2025.
 //
 
-#ifndef M2OEP_ELSTOWEL_PLAYER_H
-#define M2OEP_ELSTOWEL_PLAYER_H
+#ifndef SOCCER_CLUB_SIMULATOR_PLAYER_H
+#define SOCCER_CLUB_SIMULATOR_PLAYER_H
 
 #include <string>
 #include <vector>
@@ -172,4 +172,4 @@ public:
 };
 
 
-#endif //M2OEP_ELSTOWEL_PLAYER_H
+#endif //SOCCER_CLUB_SIMULATOR_PLAYER_H
