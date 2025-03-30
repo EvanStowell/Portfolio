@@ -11,8 +11,7 @@ session_start();
     </head>
     <body>
     	<header>
-    		<h1>CS2300 - M3OEP</h1>
-            <h2>Soccer Club Simulator</h2>
+            <h1>Soccer Club Simulator</h1>
     	</header>
         <?php
         if (isset($_POST['choice'])) {
