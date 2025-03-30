@@ -1,0 +1,35 @@
+header {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: lightgreen;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+form input[type="radio"] {
+    display: flex;
+    margin-right: 10px;
+}
+
+form input[type="submit"] {
+    padding: 10px;
+    margin: 20px;
+}
+
+form label {
+    display: inline-block;
+}
+
+form p {
+    font-size: 20px;
+    text-align: center;
+}
