@@ -19,3 +19,5 @@ algorithm to identify the optimal move at each turn.
 
 ## Font
 To use the font in the code, download and install the "Kenney Blocks" font from https://kenney.nl/assets/kenney-fonts
+
+Co-authored by: Noah Burnham, Liam Spence, Matt Clark
