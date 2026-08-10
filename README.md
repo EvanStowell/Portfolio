@@ -1,5 +1,6 @@
 # Class Projects:
 - NBA Award Winner Predictions (Python, scikit-learn, pandas)
+- Chess (Python, 
 
 # Personal Projects:
 
