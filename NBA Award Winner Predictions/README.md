@@ -22,5 +22,7 @@ To run the script:
 - Install sci-kit learn, pandas, matplotlib, and seaborn
 - Run the notebook
 
+Co-authored by: Joseph Gilmartin, Ryan Smith, Jack Vickers
+
 # Future Work
 With more time, we would investigate more advanced statistics like box score and win shares to evaluate their predictive power. Additionally, in our data cleaning phase, players who were contracted for two teams in one season (e.g. traded mid-season) were removed due to redundancy in model training which led to the removal of DPOY Dikembe Mutombo. Future work should ensure these players are included in the training and testing datasets and have their statistics consolidated into one entry.
